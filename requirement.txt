@@ -1,0 +1,19 @@
+are we able to do the code to the customer can send the NFT to ther own wallet and not have it locked into the site please
+
+so i want to be able to sent NFT to my wallet basicly
+
+also we need a delayed period so we can cheek images for copy right before they go live, so we dont get sued  
+remember NFT is free to mint on our site (except network fees) payouts are doneon successful the sales 
+we decided on 70/30 ratio 
+30%  to us and 70%remaining to artist 
+
+so if the sale of an NFT s 1 eth we would get 30% and the creator or user will get 70%
+separate thing can you create a code that can tell if the image has been copied so it runs it through the internet to check for copy rights  
+remember we want the consumer in control thats our sells pitch
+
+also when a customer create a NFT and it cost $1 in gas fees for example in avax can we set it so it charges an additional 20%  so we would get 20 cent in a maintenance wallet
+Luke did this in his smart contract 
+so we make 20% on gas fees as we dont make any money untill the sale
+
+Briefly read this and let me know if you have any question.
+going to bed now, leave msg here
