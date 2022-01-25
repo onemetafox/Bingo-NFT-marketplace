@@ -32,6 +32,8 @@ contract PhotoNFT is ERC721URIStorage {
      * @dev mint a photoNFT
      * @dev tokenURI - URL include ipfs hash
      */
+
+     // 20% fee calculate
     function mint(address to, string memory tokenURI) public returns (bool) {
         uint256 newPhotoId = getNextPhotoId();
         currentPhotoId++;

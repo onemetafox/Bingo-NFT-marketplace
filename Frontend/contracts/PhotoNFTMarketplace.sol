@@ -34,6 +34,7 @@ contract PhotoNFTMarketplace is PhotoNFTTradable, PhotoNFTMarketplaceEvents {
      * @notice - msg.sender buy NFT with ETH (msg.value)
      * @notice - PhotoID is always 1. Because each photoNFT is unique.
      */
+     // loyalty fee 70% and 30%
     function buyPhotoNFT(PhotoNFT _photoNFT) public payable returns (bool) {
         PhotoNFT photoNFT = _photoNFT;
 
